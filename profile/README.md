@@ -9,10 +9,6 @@
   <a href="https://github.com/Foreglow/foreglow-theme/issues">Contributing</a>
 </p>
 
-## About
-
-**Foreglow** is an open-source theme pack designed for late-night programmers (and power users), based on a twilight color palette.
-
 <img width="2000" height="1400" alt="foreglow-abstract" src="https://github.com/user-attachments/assets/bc976636-e65c-407f-b187-c98a948f7fcc" />
 
 ## Themes
